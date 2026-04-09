@@ -2,5 +2,5 @@ services:
   godgame-webgl:
     build: .
     ports:
-      - "8080:80"
+      - "${GODGAME_PORT:-19081}:80"
 
