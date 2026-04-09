@@ -1,0 +1,17 @@
+.git
+.github
+.vscode
+.idea
+
+# Common Unity project folders (if present)
+Library
+Temp
+Obj
+Builds
+Logs
+UserSettings
+
+# Node/other
+node_modules
+dist
+
