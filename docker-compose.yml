@@ -1,0 +1,6 @@
+services:
+  godgame-webgl:
+    build: .
+    ports:
+      - "${GODGAME_PORT:-19081}:80"
+
