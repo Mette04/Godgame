@@ -13,7 +13,7 @@
 <p>
   <img src="Assets/Sprites/Thor/Thor.png" alt="Thor" width="140" />
   <img src="Assets/Sprites/Skeleton/skeleton.png" alt="Skeleton" width="140" />
-  <img src="Assets/AbandonedTown/Assets/Pictures/building/house05.png" alt="House" width="140" />
+  
 </p>
 
 <details>
