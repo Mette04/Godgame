@@ -103,17 +103,3 @@ Projektet er lavet med:
 WebGL-output i repoet matcher de nuværende `index.html`-filer (root og `Web/`). Ved rebuild i Unity skal filnavne/paths fortsat matche (fx loader/data/framework/wasm).
 
 ---
-
-## Screenshots og GIF
-
-Tilføj evt. filer i `docs/` og link dem her:
-
-- `docs/hero.png` (forsidebillede)
-- `docs/gameplay.gif` (kort gameplay-loop)
-
-Eksempel:
-
-```md
-![Godgame](docs/hero.png)
-![Gameplay](docs/gameplay.gif)
-```
