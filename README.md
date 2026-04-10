@@ -1,6 +1,8 @@
 # Godgame (Unity WebGL)
 
-**Spil nu**: `https://mette.gf2.dk/godgame`
+**Spil nu**: [mette.gf2.dk/godgame](https://mette.gf2.dk/godgame)
+
+[![Spil nu](https://img.shields.io/badge/Spil%20nu-WebGL-blue)](https://mette.gf2.dk/godgame)
 
 > Unity-spil lavet på Askov Højskole. Repoet indeholder både Unity-projektet **og** en færdig WebGL-build, der kan serveres med Nginx (via Docker).
 
